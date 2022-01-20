@@ -1,0 +1,21 @@
+body{
+	min-height: 3000px;
+}
+
+.navbar-brand {
+	font-family: 'Nunito',sans-serif;
+}
+
+.jumbotron {
+	padding-top: 6rem;
+	background-color: #e2edff
+}
+
+#Gallery {
+	background-color: #e2edff
+} 
+
+
+section{
+	padding-top: 5rem;
+}
