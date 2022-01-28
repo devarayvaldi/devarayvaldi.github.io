@@ -19,3 +19,8 @@ body{
 section{
 	padding-top: 5rem;
 }
+
+#about{
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
